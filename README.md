@@ -33,9 +33,9 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-oliveira-b4b984239/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=vercel&logoColor=white)](https://https://phomhado.github.io/Portfolio)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.he.oli10@gmail.com)
 
 ---
 
