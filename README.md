@@ -1,4 +1,4 @@
-### Hello there (if you get the reference, you are a man/woman of culture)! I'm Pedro 👋
+### Hello there (if you reply with "Obi-Wan Kenobi", you are a person of culture)! I'm Pedro 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=false&width=500&lines=FullStack+Developer;React%2FNext.js;Open-Source+Contributor)](https://git.io/typing-svg)
 
