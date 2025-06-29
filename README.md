@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pedro-henrique-oli&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Phomhado&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phomhado&show_icons=true&theme=tokyonight)
 
