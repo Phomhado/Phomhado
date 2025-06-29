@@ -32,7 +32,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedro-henrique-oli&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-henrique-oli&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phomhado&show_icons=true&theme=tokyonight)
 
 ---
 
