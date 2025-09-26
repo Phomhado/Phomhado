@@ -1,21 +1,20 @@
-# Hello there 👋 
-*(If you reply “Obi-Wan Kenobi”, you are a person of culture!)*  
+# Hello there! 
+*(If you reply “Obi-Wan Kenobi... *cough cough*”, you are a person of culture!)*  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=500&lines=Full-Stack+Developer;React+%26+Next.js;Open-Source+Contributor;Always+Learning+%26+Building)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-
-- 👨‍💻 Web Developer focused on **React, Next.js, TypeScript & Ruby on Rails**  
-- 🧰 Experience building **web apps, APIs, dashboards & internal tools**  
-- 🌱 Always learning, improving problem-solving and exploring new techs  
-- 🌍 Passionate about **Open Source contributions**  
-- 💼 Open to **freelance work & collaborations**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=600&lines=Software+Engineer;Rustacean;Web+Developer;Open+to+Contribute;Full-Stack+Developer;React+%26+Next.js;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Software Engineer working as a **Web Developer** focused on **React, Next.js, TypeScript & Ruby on Rails**  
+- Experience building **web apps, APIs, Landing Pages**  
+- Always learning, improving problem-solving and exploring new techs  
+- Passionate about **Open Source contributions**  
+
+---
+
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -28,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Phomhado&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phomhado&show_icons=true&theme=tokyonight)  
@@ -36,7 +35,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-updated-gray.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-he-oli-dev)  
