@@ -1,7 +1,7 @@
 # Hello there! 
 *(If you reply “Obi-Wan Kenobi... *cough cough*”, you are a person of culture!)*  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=600&lines=Software+Engineer;Rustacean;Web+Developer;Open+to+Contribute;Full-Stack+Developer;React+%26+Next.js;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=600&lines=Software+Engineer;Web+Developer;Open+to+Contribute;Full-Stack+Developer;React+%26+Next.js;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 ---
 
